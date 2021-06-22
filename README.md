@@ -18,4 +18,4 @@ The following techniques have been used:
   conda env create -f env.yml
   
 ## To excute the script
-python < scriptname.py >
+python pythoncode.py 
