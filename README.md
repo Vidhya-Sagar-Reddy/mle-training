@@ -19,4 +19,3 @@ The following techniques have been used:
   
 ## To excute the script
 python nonstandardcode.py 
-
