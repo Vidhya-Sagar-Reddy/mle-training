@@ -18,9 +18,5 @@ The following techniques have been used:
   conda env create -f env.yml
   
 ## To excute the script
-<<<<<<< HEAD
 python nonstandardcode.py 
-=======
-python nonstandardcode-formatted.py 
 
->>>>>>> 85349b077ee8ccf91bc06a1bc946bbb4c0f87f21
