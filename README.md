@@ -17,7 +17,8 @@ The following techniques have been used:
 ## To setup Python Environment in conda(Command)
   conda env create -f env.yml
 
-
+## To execute the script
+python nonstandardcode.py
 
 
 ## Updated script
