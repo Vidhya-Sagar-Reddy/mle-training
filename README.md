@@ -20,8 +20,3 @@ The following techniques have been used:
 ## To execute the script
 python nonstandardcode.py
 
-
-## Updated script
-  
-## To excute the script
-python nonstandardcode-formatted.py 
